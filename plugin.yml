@@ -1,0 +1,6 @@
+name: VexKitsPlus
+main: net.vexkitsplus.nathan.KitsPlus
+version: 1.0
+commands:
+  kits:
+    aliases: [kit, kitmenu, kitgui]

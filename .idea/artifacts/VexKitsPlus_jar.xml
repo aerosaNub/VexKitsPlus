@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VexKitsPlus:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="VexKitsPlus.jar">
+      <element id="module-output" name="VexKitsPlus" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
